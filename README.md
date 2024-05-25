@@ -8,7 +8,7 @@ I am currently pursuing a PhD in Biotechnology with a keen focus on integrating 
 ## 💡 Interests
 - **Structural Biology**: Understanding the molecular architecture of biological macromolecules and how it influences their function.
 - **Drug Discovery Pipeline**: Utilizing AI and ML to enhance the efficiency and accuracy of discovering new therapeutic compounds.
-- **Onco-omics**: Understanding the core variations in omics level of the disease.
+- **Onco-omics**: Understanding the core variations in omics level of cancer.
 
 ## 🛠️ Skills and Technologies
 - **Programming Languages**: Python
